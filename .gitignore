@@ -1,0 +1,4 @@
+.vscode/
+DATASET/
+src/movinet_a0_dumping.engine
+build/
