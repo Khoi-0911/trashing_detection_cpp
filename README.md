@@ -13,6 +13,10 @@ Chương trình C++ nhận một video và cho biết có hành vi đổ rác ha
     └── videos/          # đặt video cần kiểm tra vào đây
 ```
 
+## Dữ liệu
+ 
+Video dùng để huấn luyện và kiểm tra lấy từ bộ dữ liệu MIVIA-IWDD: https://github.com/MiviaLab/IllegalWasteDumping
+
 ## Yêu cầu
 
 - Windows, Visual Studio 2022 (workload *Desktop development with C++*), CMake >= 3.23
